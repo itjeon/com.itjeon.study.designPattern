@@ -1,0 +1,5 @@
+#test comment
+#Sun Aug 31 16:54:59 KST 2014
+day=21
+year=2004
+month=4
